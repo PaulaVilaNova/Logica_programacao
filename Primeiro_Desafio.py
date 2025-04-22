@@ -1,6 +1,6 @@
 # nome =input("nome do herói:")
 nome = "paula"
-XPs = 9056
+XPs = 5000
 
 if 0 <= XPs <= 1000:
     nivel = "Ferro"  
